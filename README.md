@@ -5,7 +5,8 @@ Last Updated:12/2/2020
 ### Project Title
 Bikeshare.py
 ### Description
-this project takes the csv files and presents data analyses on them
+this code will use the csv files of bike share data in different cities to provide analyses on them.
+EX:most used month
 ### Files used
 bikeshare.py
 chicago.csv
